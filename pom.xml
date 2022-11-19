@@ -58,6 +58,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>scm-springboot</finalName>
     </build>
 
 </project>
